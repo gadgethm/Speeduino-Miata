@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-    <bibliography author="TunerStudio MS Ultra 3.1.05 - EFI Analytics, Inc." tuneComment="" writeDate="Fri Sep 03 23:07:48 MDT 2021"/>
+    <bibliography author="TunerStudio MS Ultra 3.1.05 - EFI Analytics, Inc." tuneComment="" writeDate="Fri Sep 03 23:09:12 MDT 2021"/>
     <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2021.03" nPages="14" signature="speeduino 202103"/>
     <page>
         <pcVariable name="tsCanId">"0"</pcVariable>
