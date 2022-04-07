@@ -3,3 +3,4 @@ DataLogs/*
 *.log
 restorePoints/*
 projectCfg/@eaDir/
+TuneView/*
