@@ -2,4 +2,4 @@ restorePoints/*
 DataLogs/*
 *.log
 restorePoints/*
-projectCfg/@eaDir
+projectCfg/@eaDir/
